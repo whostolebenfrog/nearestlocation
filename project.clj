@@ -7,7 +7,6 @@
   :aot [com.github.nearestlocation.types com.github.nearestlocation.core]
 
   :dependencies [[org.clojure/clojure "1.5.1"]
-                 [org.clojure/data.csv "0.1.2"]
                  [clj-kdtree "1.1.0"]]
 
   :profiles {:dev {:dependencies [[midje "1.5.1"]]
