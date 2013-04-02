@@ -7,6 +7,7 @@ An excellent free database of city or country location data that you may find us
 
 ## Usage
 
+'''java
 import com.github.nearestlocation.Locator;
 import com.github.nearestlocation.types.Location;
 
@@ -25,6 +26,7 @@ Location nearestLocation = locator.getNearestLocation(someLat, someLng);
 nearestLocation.lat; // 51.45
 nearestLocation.lng; // -2.5833
 (String) nearestLocation.name // "Bristol"
+'''
 
 ## License
 
