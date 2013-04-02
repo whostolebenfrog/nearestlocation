@@ -1,6 +1,5 @@
 (ns com.github.nearestlocation.core
-  (:require [clojure.data.csv :as csv]
-            [kdtree]
+  (:require [kdtree]
             [com.github.nearestlocation.types])
 
   (:import [com.github.nearestlocation.types Location])
