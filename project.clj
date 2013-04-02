@@ -1,4 +1,4 @@
-(defproject nearestlocation "0.1.0-SNAPSHOT"
+(defproject nearestlocation "0.1.0"
   :description "A wrapper for clj-kdtree to provide easy use in Java to find nearest locations to a given point"
   :url "https://github.com/dmcgillen/nearestlocation"
   :license {:name "Eclipse Public License"
